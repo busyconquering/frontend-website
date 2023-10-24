@@ -1,0 +1,7 @@
+
+    @media screen and (max-width: 600px) {
+        .media-queries-for-footer {
+          display: block;
+          border: none;
+        }
+    }

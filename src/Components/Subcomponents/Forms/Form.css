@@ -1,0 +1,16 @@
+input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  @media screen and (max-width: 992px) {
+    .form-page-products {
+      display: none;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    .form-page-responsive-products {
+      display: none;
+    }
+  }

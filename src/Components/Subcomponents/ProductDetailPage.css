@@ -1,0 +1,13 @@
+.main-image{
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .magnifier-div {
+        display: none;
+    }
+    .main-image{
+        display: block;
+    }
+  }
+

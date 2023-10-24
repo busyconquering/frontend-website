@@ -1,0 +1,20 @@
+@media screen and (max-width: 991px) {
+    .filter-responsiveness{
+      display: none;
+    }
+
+    .FilterNavinMedium{
+        display: block;
+    }
+  }
+
+  @media screen and (min-width: 991px) {
+    .filter-nav-parent-for-media-queries{
+        display: none;
+    }
+}
+
+.classee{
+  margin-top: 20px;
+  border: 2px solid red;
+}
